@@ -1,0 +1,1 @@
+My first ODIN lang program that uses the monte-carlo method to estimate the value of PI. Uses raylib for visualization and a crude user interface. Inspired by [MPI documentation](https://hpc-tutorials.llnl.gov/mpi/general_concepts/).
